@@ -1,5 +1,5 @@
 # Hi, I'm Noor 👋
-Computer Science undergraduate at George Mason University ('28) focused on low-level systems programming in C, POSIX runtime environments, and AI developer tooling.
+Computer Science undergraduate at George Mason University ('29) focused on low-level systems programming in C, POSIX runtime environments, and AI developer tooling.
 
 ### 🛠 Tech Stack
 - **Languages:** C, Java, Python, JavaScript, Bash
@@ -26,4 +26,4 @@ Computer Science undergraduate at George Mason University ('28) focused on low-l
 
 ### 📬 Connect
 - **LinkedIn:** [noor-ul-hassan](https://www.linkedin.com/in/noor-ul-hassan-84a553383)
-- **Email:** mbutt21@gmu.edu
+- **Email:** mbutt21@gmu.edu / noorhusaan302@gmail.com
