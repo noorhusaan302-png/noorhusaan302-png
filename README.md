@@ -1,4 +1,4 @@
-Hi, I'm Noor 👋
+### Hi, I'm Noor 👋
 
 Computer Science undergraduate at George Mason University ('29) focused on systems programming in C, POSIX networking and concurrency, and AI developer tooling.
 
