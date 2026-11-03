@@ -18,7 +18,7 @@ Computer Science undergraduate at George Mason University ('28) focused on low-l
   Java static security analyzer that parses Abstract Syntax Trees (AST) to find SQL injection and hardcoded secrets, then asks an on-device LLM via Ollama (Qwen 2.5 Coder) for fixes and re-parses each one to reject invalid Java. Runs as a CLI or an HMAC-verified GitHub webhook, with 37 JUnit tests.
 
 - **[enterprise-c-proxy](https://github.com/noorhusaan302-png/enterprise-c-proxy)**  
-  Multithreaded HTTP forward proxy built in C, with an LRU + TTL response cache, per-client token bucket rate limiting, subdomain-aware domain blacklisting, and a live JSON `/stats` endpoint. 14 integration tests, also run under ASan and TSan.
+  Multithreaded HTTP/HTTPS forward proxy built in C, with an LRU + TTL response cache, upstream connection pooling, per-client token bucket rate limiting, subdomain-aware domain blacklisting, HTTPS `CONNECT` tunneling with `kqueue`, and a live JSON `/stats` endpoint. Load-tested with 50 concurrent clients.
 
 - **[Noorshell](https://github.com/noorhusaan302-png/Noorshell)**  
   Custom Unix shell written from scratch in C. Handles process creation (`fork`, `execvp`, `waitpid`), a pipe between two commands (`pipe`, `dup2`), `<` / `>` I/O redirection, background jobs with `&`, and built-in `cd` and `exit`.
