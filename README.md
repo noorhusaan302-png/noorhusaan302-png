@@ -1,6 +1,6 @@
 ### Hi, I'm Noor 👋
 
-Computer Science undergraduate at George Mason University ('29) focused on low-level systems programming in C, POSIX networking and concurrency, and AI developer tooling.
+Computer Science undergraduate at George Mason University ('28) focused on low-level systems programming in C, POSIX networking and concurrency, and AI developer tooling.
 
 ### 🛠 Tech Stack
 - **Languages:** C, Java, Python, JavaScript, Bash
@@ -21,10 +21,10 @@ Computer Science undergraduate at George Mason University ('29) focused on low-l
   Multithreaded HTTP forward proxy built in C, with an LRU + TTL response cache, per-client token bucket rate limiting, subdomain-aware domain blacklisting, and a live JSON `/stats` endpoint. 14 integration tests, also run under ASan and TSan.
 
 - **[Noorshell](https://github.com/noorhusaan302-png/Noorshell)**  
-  Custom POSIX Unix shell implemented from scratch in C. Features process lifecycle control (`fork`, `execvp`, non-blocking `waitpid` with `WNOHANG` to reap background jobs), file descriptor piping (`pipe`, `dup2`), I/O redirection, and built-in commands.
+  Custom Unix shell written from scratch in C. Handles process creation (`fork`, `execvp`, `waitpid`), a pipe between two commands (`pipe`, `dup2`), `<` / `>` I/O redirection, background jobs with `&`, and built-in `cd` and `exit`.
 
 ---
 
 ### 📬 Connect
-- **LinkedIn:** [noor-ul-hassan](https://www.linkedin.com/in/noor-ul-hassan-84a553383)
+- **LinkedIn:** [muhammad-noor-ul-hassan-butt](https://www.linkedin.com/in/muhammad-noor-ul-hassan-butt-84a553383/)
 - **Email:** mbutt21@gmu.edu / noorhusaan302@gmail.com
