@@ -4,6 +4,8 @@ CS student at George Mason University ('28) working on systems programming in C,
 
 **Open to Summer 2027 software engineering internships.**
 
+🔨 **Currently building:** a GPT-2 inference engine from scratch in C++ and CUDA (custom GPU kernels, KV cache, benchmarks).
+
 ### 🛠 Tech Stack
 - **Languages:** C, Java, Python, SQL, JavaScript, Bash
 - **Systems & Networking:** POSIX System Calls, Network Sockets, Multi-threading (pthreads, mutexes), AddressSanitizer / ThreadSanitizer
