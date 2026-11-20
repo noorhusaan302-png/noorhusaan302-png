@@ -4,8 +4,6 @@ CS student at George Mason University ('28) working on systems programming in C,
 
 **Open to Summer 2027 software engineering internships.**
 
-🥊 **Founder, [Helios Boxing](https://heliosboxing.com):** my own boxing gear brand. I run the business and its online store (WordPress + WooCommerce).
-
 ### 🚧 Currently Building
 - **GPT-2 inference engine** – built from scratch in C++ and CUDA, with custom GPU kernels, a KV cache and tokens/sec benchmarks.
 
