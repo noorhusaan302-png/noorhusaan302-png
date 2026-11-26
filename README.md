@@ -5,10 +5,10 @@ CS student at George Mason University ('28) working on systems programming in C,
 **Open to Summer 2027 software engineering internships.**
 
 ### 🚧 Currently Building
-- **GPT-2 inference engine** – built from scratch in C++ and CUDA, with custom GPU kernels, a KV cache and tokens/sec benchmarks.
+- **Resume-Matcher-Engine** – a resume-to-job matcher on an inference engine written from scratch in C++ and CUDA. Runs MiniLM and GPT-2 from their original weights with custom GPU kernels (43x and 9.2x faster than one CPU thread on a Tesla T4), checked against PyTorch, with a scoring model trained in the repo.
 
 ### 🛠 Tech Stack
-- **Languages:** C, Java, Python, SQL, JavaScript, Bash
+- **Languages:** C, C++, Java, Python, SQL, CUDA, JavaScript, Bash
 - **Systems & Networking:** POSIX System Calls, Network Sockets, Multi-threading (pthreads, mutexes), AddressSanitizer / ThreadSanitizer
 - **Developer Tools:** Linux/Unix, macOS, Makefiles, Git, Vim, Maven, JUnit, Docker, Ollama
 
